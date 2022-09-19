@@ -1,0 +1,63 @@
+body{
+    color:black;
+    font-style:normal;
+    font-size: 24px;
+    text-indent: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: justify;
+
+
+}
+.title{
+    color:black;
+    font-weight: bold;
+    font-size: 64px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    background-color: navajowhite;
+
+}
+.pic{
+    
+    height: auto;
+    width: auto;
+    
+
+}
+
+p{
+    color:darkblue;
+    font-style:inherit;
+    
+}
+.h2{
+    color: darkblue;
+    font-weight: bold;
+    text-align: left;
+    font-variant:small-caps;
+    
+}
+
+.ingr {
+    
+    font-style:italic;
+    text-indent: 0px;
+    text-decoration: underline;
+    list-style-type: square;
+
+}
+.time {
+    color:steelblue;
+    font-weight: bold;
+}
+
+.steps {
+    text-indent: 0px;
+    text-decoration: none;
+}
+
+.temp{
+    
+    color:brown;
+    font-weight: bold; 
+}
